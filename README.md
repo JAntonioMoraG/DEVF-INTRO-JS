@@ -3,3 +3,8 @@ Repositorio de los ejercicios de intro a JS perteneciente a mi curso de Proffesi
 ## Actividades realizadas por Mora Guzman Jose Antonio
 ### Lista Actividades:
 * [Actividad 1](https://github.com/JAntonioMoraG/DEVF-INTRO-JS/tree/main/Actividad%201)
+* [Actividad 2](https://github.com/JAntonioMoraG/DEVF-INTRO-JS/tree/main/Actividad%202)
+* [Actividad 3](https://github.com/JAntonioMoraG/DEVF-INTRO-JS/tree/main/Actividad%203)
+* [Actividad 4](https://github.com/JAntonioMoraG/DEVF-INTRO-JS/tree/main/Actividad%204)
+* [Actividad 5](https://github.com/JAntonioMoraG/DEVF-INTRO-JS/tree/main/Actividad%205)
+* [Actividad 6](https://github.com/JAntonioMoraG/DEVF-INTRO-JS/tree/main/Actividad%206)
