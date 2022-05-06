@@ -16,6 +16,7 @@
   ```
 
 > _your answer here_  va a regresar undefined y 2 porque al imprimir a aun no la definimos y al imprimir en consola la funcion foo() se imprime el retorno de la funcion que es 2
+
 > _console answer_ undefined y 2
 
 
@@ -37,6 +38,7 @@
   var result = firstResult(2);
   ```
 > _your answer here_ 5
+
 > _console answer_ 5
 
 
@@ -56,6 +58,7 @@
   baz();
   ``` 
 > _your answer here_ 2 porque al entrar a la funcion foo a cambia su valor a 2 y entra a la funcion bar la cual imprime en consola el valor de a que en ese momento es 2 y la funcoin foo retorna a la funcion bar(la impresion en consola de 2), despues a baz se le asigna la funcion foo que recordemos que imprime en pantalla el 2 y al mandar a llamar a baz() esta tiene el resultado de la funcion foo
+
 > _console answer_ 2
 
 
@@ -71,4 +74,5 @@
   ```
 
 > _your answer here_ No retorna nada b por lo tanto debe salir undefined
+
 > _console answer_ undefined
