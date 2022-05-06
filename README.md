@@ -8,3 +8,4 @@ Repositorio de los ejercicios de intro a JS perteneciente a mi curso de Proffesi
 * [Actividad 4](https://github.com/JAntonioMoraG/DEVF-INTRO-JS/tree/main/Actividad%204)
 * [Actividad 5](https://github.com/JAntonioMoraG/DEVF-INTRO-JS/tree/main/Actividad%205)
 * [Actividad 6](https://github.com/JAntonioMoraG/DEVF-INTRO-JS/tree/main/Actividad%206)
+* [Actividad 7](https://github.com/JAntonioMoraG/DEVF-INTRO-JS/tree/main/Actividad%207)
